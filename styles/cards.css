@@ -1,0 +1,19 @@
+/* cards.css */
+.card-container {
+  max-width: 345px;
+  display: inline-block;
+  margin: 16px;
+}
+
+.card-container-fullwidth {
+  width: 100%;
+  display: inline-block;
+  margin: 16px 0;
+}
+  
+.card-media {
+  width: 100%;
+  height: auto;
+  max-height: 600px; /* Change this value to adjust the maximum height */
+  object-fit: contain;
+}

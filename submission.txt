@@ -1,0 +1,65 @@
+CS142 Project 8 - Submission Form
+
+Please fill in this form and submit it with your Project 8.
+
+Enter no more than 5 user stories that you did for the assignment that you would
+like to be graded on. For each story include the following information:
+
+Story number and name: 1 - Extend user profile detail with usage 
+Story points: 3
+Brief description to see the story in action: Navigate to any user's UserDetail page 
+by clicking on them in the UserList sidebar. You'll then see the rendered cards if they
+have >0 posts - one for Most Recent and another for Most Commented. 
+
+Story number and name: 2 - @mentions in comments
+Story points: 6
+Brief description to see the story in action: Navigate to any user's photos and write a comment
+with the @ character to trigger the suggestions of any user to @. Post your comment to see that
+every comment is a link to that user's account. You can also navigate to a user's detail page 
+to see photos they are mentioned in. 
+
+Story number and name: 5 - Deleting Comments, Photos, and Users 
+Story points: 4
+Brief description to see the story in action: 
+For photos - click the trash can at the top right corner of your own photo.
+For comments - click the trash can at the right side of your own comment. 
+For users - press 'Delete Account' on your own User Detail page. 
+
+Total Story Points: 13
+
+Marketing Video URL (ensure permissions are set to public viewing):
+https://stanford.zoom.us/rec/share/KK3rgxvZPd2onXQj1W-Xnx4cV8ec1hcaaDBRMaRzaWtqAAocFZ8I6s0mO8lidTal.vBbkjY6XR9AnRNyl
+
+Is it OK if we post your Marketing Video URL on the class discussion forum?
+No
+
+Any special instructions for grading (it should be easy for someone to run your
+app from a new machine):
+I tried to fix the lint errors but they broke the functionality of UserPhotos. 
+
+
+
+
+
+
+************************************ Example ***********************************
+* As an example: if you did only story 5, your file would look like:
+* 
+* Story number and name:  5 - Activity Feed
+* Story points:  4
+* Brief description to see the story in action:
+* Push the button labeled Activity on the toolbar to view the 10 most recent
+* activities of the current user.
+* 
+* Total Story Points: 4
+* 
+* Marketing Video URL (ensure permissions are set to public viewing):
+* http://www.youtube.com ---
+* 
+* Is it OK if we post your Marketing Video URL on the class discussion forum?
+* Yes
+* 
+* Any special instructions for grading (it should be easy for someone to run
+* your app from a new machine):
+* None
+************************************ Example ***********************************
